@@ -1,3 +1,4 @@
+
 def insertion_sort(nums):
     for i in range(1, len(nums)):
         item_to_insert = nums[i]
@@ -9,4 +10,4 @@ def insertion_sort(nums):
 random_list_of_nums = [9, 1, 15, 28, 6]
 insertion_sort(random_list_of_nums)
 print(random_list_of_nums)
-                                                                                                                                                                                                                            
+              
